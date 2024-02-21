@@ -1,5 +1,5 @@
 
-from sportradar.api import Api
+from pysportradar.api import Api
 
 
 class NCAAMBApi(Api):
